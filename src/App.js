@@ -26,7 +26,7 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <p>This is a text. </p>
+    <div><p>This is a text. </p></div>
   );
 }
 
