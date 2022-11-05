@@ -7,7 +7,6 @@ function getFood() {
 
 }
 
-
 function App() {
   return (
     //react boilerplate
