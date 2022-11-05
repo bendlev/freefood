@@ -26,7 +26,7 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <div><p>This is a text. </p></div>
+    <div className="App"><p>This is a text. </p></div>
   );
 }
 
