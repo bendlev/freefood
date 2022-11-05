@@ -31,7 +31,7 @@ function App() {
     <p>
     Welcome to FREEFOOD@now. Eliminating food waste and satiating Dartmouth's hunger.  
     </p>
-    
+
   );
 }
 
